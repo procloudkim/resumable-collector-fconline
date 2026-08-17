@@ -62,4 +62,4 @@
 
 원본에는 MIT 라이선스가 있었으나 공개본에서 부여하지 않는 이유는 [PROVENANCE_PUBLIC.md](./PROVENANCE_PUBLIC.md)에 있습니다.
 
-데이터 취급 조건은 [DATA_LICENSE.md](./DATA_LICENSE.md)를 따릅니다. 수집 대상 서비스의 이용약관을 함께 확인하십시오.
+데이터 취급 조건은 [DATA_LICENSE.md](./docs/DATA_LICENSE.md)를 따릅니다. 수집 대상 서비스의 이용약관을 함께 확인하십시오.

@@ -124,7 +124,7 @@
 |---|---|
 | [CRAWLING_POLICY.md](./docs/CRAWLING_POLICY.md) | 요청 간격, 대상 범위, 하지 않을 것 |
 | [PRIVACY.md](./docs/PRIVACY.md) | 개인정보 취급 |
-| [DATA_LICENSE.md](./DATA_LICENSE.md) | 출처 표기와 이용 범위 |
+| [DATA_LICENSE.md](./docs/DATA_LICENSE.md) | 출처 표기와 이용 범위 |
 | [DATA_STORAGE_POLICY.md](./docs/DATA_STORAGE_POLICY.md) | 무엇을 저장하고 무엇을 Git에 넣지 않을지 |
 | [TIMEZONE_POLICY.md](./docs/TIMEZONE_POLICY.md) | 시간대 처리 |
 | [ENCODING_POLICY.md](./docs/ENCODING_POLICY.md) | 인코딩 |

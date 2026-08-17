@@ -1,0 +1,26 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+.env
+.env.*
+!.env.example
+
+# 시크릿과 키
+*.pem
+*.key
+*.ppk
+id_rsa*
+
+# 수집 산출물과 실행 산출물 (추적하지 않음)
+data/
+logs/
+output_silver/
+
+# 파이썬
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/

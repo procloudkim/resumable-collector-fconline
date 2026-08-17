@@ -1,0 +1,10 @@
+streamlit==1.49.1
+pandas==2.3.2
+plotly>=5.18,<6
+requests
+python-dotenv
+beautifulsoup4
+pytest
+selenium
+webdriver-manager
+matplotlib

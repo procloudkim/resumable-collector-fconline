@@ -1,0 +1,5 @@
+# One per line: YouTube URL or 11-char video ID
+# Lines starting with # are comments and ignored by shell expansion examples
+https://www.youtube.com/watch?v=ABCDEFGHIJK
+https://youtu.be/LMNOPQRSTU
+XYZ12345678
